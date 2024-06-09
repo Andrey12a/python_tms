@@ -1,2 +1,2 @@
 # python_tms
-#### Домашние задания
+#### home tasks
